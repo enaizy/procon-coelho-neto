@@ -16,7 +16,7 @@ public class Main {
 
             int opcao;
             do {
-                System.out.println("\n===== PROCON Coelho Neto - MVP =====");
+                System.out.println("\n===== PROCON - MVP =====");
                 System.out.println("1 - Cadastrar cidadão");
                 System.out.println("2 - Criar agendamento");
                 System.out.println("3 - Buscar agendamentos por CPF");
